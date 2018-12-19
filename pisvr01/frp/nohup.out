@@ -1,0 +1,26 @@
+2018/11/10 11:41:54 [1;34m[I] [proxy_manager.go:300] proxy removed: [][0m
+2018/11/10 11:41:54 [1;34m[I] [proxy_manager.go:310] proxy added: [web ssh][0m
+2018/11/10 11:41:54 [1;34m[I] [proxy_manager.go:333] visitor removed: [][0m
+2018/11/10 11:41:54 [1;34m[I] [proxy_manager.go:342] visitor added: [][0m
+2018/11/10 11:41:54 [1;34m[I] [control.go:246] [19d69bcd62f424ac] login to server success, get run id [19d69bcd62f424ac], server udp port [0][0m
+2018/11/10 11:41:54 [1;34m[I] [control.go:169] [19d69bcd62f424ac] [web] start proxy success[0m
+2018/11/10 11:41:54 [1;34m[I] [control.go:169] [19d69bcd62f424ac] [ssh] start proxy success[0m
+2018/12/07 22:16:06 [1;34m[I] [proxy_manager.go:300] proxy removed: [][0m
+2018/12/07 22:16:06 [1;34m[I] [proxy_manager.go:310] proxy added: [ssh web vnc][0m
+2018/12/07 22:16:06 [1;34m[I] [proxy_manager.go:333] visitor removed: [][0m
+2018/12/07 22:16:06 [1;34m[I] [proxy_manager.go:342] visitor added: [][0m
+2018/12/07 22:16:06 [1;34m[I] [control.go:246] [172f1b4e8211e5d4] login to server success, get run id [172f1b4e8211e5d4], server udp port [0][0m
+2018/12/07 22:16:06 [1;34m[I] [control.go:169] [172f1b4e8211e5d4] [web] start proxy success[0m
+2018/12/07 22:16:06 [1;34m[I] [control.go:169] [172f1b4e8211e5d4] [vnc] start proxy success[0m
+2018/12/07 22:16:06 [1;34m[I] [control.go:169] [172f1b4e8211e5d4] [ssh] start proxy success[0m
+2018/12/07 22:16:15 [1;34m[I] [proxy_manager.go:300] proxy removed: [][0m
+2018/12/07 22:16:15 [1;34m[I] [proxy_manager.go:310] proxy added: [ssh web vnc][0m
+2018/12/07 22:16:15 [1;34m[I] [proxy_manager.go:333] visitor removed: [][0m
+2018/12/07 22:16:15 [1;34m[I] [proxy_manager.go:342] visitor added: [][0m
+2018/12/07 22:16:15 [1;34m[I] [control.go:246] [d441c1d308d9b795] login to server success, get run id [d441c1d308d9b795], server udp port [0][0m
+2018/12/07 22:16:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [vnc] start error: port already used[0m
+2018/12/07 22:16:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [ssh] start error: port already used[0m
+2018/12/07 22:16:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [web] start error: router config conflict[0m
+2018/12/07 22:17:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [vnc] start error: port already used[0m
+2018/12/07 22:17:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [ssh] start error: port already used[0m
+2018/12/07 22:17:15 [1;33m[W] [control.go:167] [d441c1d308d9b795] [web] start error: router config conflict[0m
